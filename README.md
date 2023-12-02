@@ -1,6 +1,6 @@
 # project
-Bimaru Solver
-Introduction
+#Bimaru Solver
+#Introduction
 
 This Python program is designed to solve the Bimaru problem, also known as the Battleship Puzzle or Solitaire Battleship, using AI techniques. 
 Problem Description
